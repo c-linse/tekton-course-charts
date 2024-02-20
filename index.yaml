@@ -3,12 +3,12 @@ entries:
   go-add-app-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-20T16:54:22.211078599Z"
+    created: "2024-02-20T17:25:32.985046862Z"
     description: A Helm chart for Kubernetes
-    digest: 24253e2300457a02c8200f39b6858b06b1a3e499a30accf22ca0fb3340f40857
+    digest: 1c787723bdd4ecd4c0aec77a23cb024e0d994eb886c22003abc6032fe5f5364d
     name: go-add-app-chart
     type: application
     urls:
     - go-add-app-chart/go-add-app-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-02-20T16:54:22.210135355Z"
+generated: "2024-02-20T17:25:32.984063477Z"
