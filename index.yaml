@@ -3,7 +3,7 @@ entries:
   go-add-app:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-03-02T12:34:26.828546588Z"
+    created: "2024-03-02T12:40:47.864427473Z"
     description: A Helm chart for Kubernetes
     digest: 178280ee5f6d4424a0e15061580e4fc4ec9bfe95d5a5fdc6ef33bd751938eff9
     name: go-add-app
@@ -13,7 +13,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-03-02T12:34:26.827899593Z"
+    created: "2024-03-02T12:40:47.862543258Z"
     description: A Helm chart for Kubernetes
     digest: 07b0be12bc265c57bd1982fd66c59a5263b298731e92bb68df4df227b9f727f0
     name: go-add-app
@@ -23,12 +23,12 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-03-02T12:34:26.827246897Z"
+    created: "2024-03-02T12:40:47.859273662Z"
     description: A Helm chart for Kubernetes
-    digest: 13eccb2977269132b95207065d20f5a8bd95202aa34f313d562c893bbaf4cd27
+    digest: 21e507aedd01a63e3f85c1a70cbfaa79a6a605e714131b763bd411de20f8d6bb
     name: go-add-app
     type: application
     urls:
     - go-add-app/go-add-app-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-02T12:34:26.826030048Z"
+generated: "2024-03-02T12:40:47.858127689Z"
